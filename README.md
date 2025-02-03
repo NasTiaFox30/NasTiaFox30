@@ -13,7 +13,7 @@ Love to code.❤️ Hard work on myself and my future projects 📑
 
 **💻 Сurrently learning:** 
 
-C#, ASP.NET Core, HTML + CSS and JavaScript
+C#, Java, ASP.NET Core, HTML + CSS and JavaScript
 
 **📋 In plans:**
 - React (javascript) 
