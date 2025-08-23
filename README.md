@@ -11,14 +11,14 @@ I’m interested in full-stack and software programming. <br />
 Love to code.❤️ Hard work on myself and my future projects 📑 
 #
 
-**💻 Сurrently learning:** 
+**💻 My Kkowledge:** 
+- HTML5 + CSS3, JavaScript, JSON
+- C# + .NET Core, Python + Libraries, FastAPI
+- PHP, Java, C++
+- SQL
 
-C#, Java, ASP.NET Core, HTML + CSS and JavaScript
-
-**📋 In plans:**
+**📋 In plans learning:**
 - React (javascript) 
-- Python
-- Django or FastAPI
 
 #
 :trollface: Random fact about me: can solve a rubik's cube (lol)
