@@ -16,9 +16,11 @@ Love to code.❤️ Hard work on myself and my future projects 📑
 - C# + .NET Core, Python + Libraries, FastAPI
 - PHP, Java, C++
 - SQL
+- Vite + React
+- Bootstrap, Tailwind CSS
 
 **📋 In plans learning:**
-- React (javascript) 
+- ASP.Net Core
 
 #
 :trollface: Random fact about me: can solve a rubik's cube (lol)
