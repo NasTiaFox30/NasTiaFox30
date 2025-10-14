@@ -13,7 +13,9 @@ Love to code.❤️ Hard work on myself and my future projects 📑
 
 **💻 My Kkowledge:** 
 - HTML5 + CSS3, JavaScript, JSON
-- C# + .NET Core, Python + Libraries, FastAPI
+- Node.js + Express
+- C# + .NET Core,
+- Python + Libraries, FastAPI
 - PHP, Java, C++
 - SQL
 - Vite + React
