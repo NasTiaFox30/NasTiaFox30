@@ -11,7 +11,6 @@ I’m interested in full-stack and software programming. <br />
 Love to code.❤️ Hard work on myself and my future projects 📑 
 #
 
-#
 :trollface: Random fact about me: can solve a rubik's cube (lol)
 
 
