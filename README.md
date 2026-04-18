@@ -11,19 +11,6 @@ I’m interested in full-stack and software programming. <br />
 Love to code.❤️ Hard work on myself and my future projects 📑 
 #
 
-**💻 My Kkowledge:** 
-- HTML5 + CSS3, JavaScript, JSON
-- Node.js + Express
-- C# + .NET Core,
-- Python + Libraries, FastAPI
-- PHP, Java, C++
-- SQL
-- Vite + React
-- Bootstrap, Tailwind CSS
-
-**📋 In plans learning:**
-- ASP.Net Core
-
 #
 :trollface: Random fact about me: can solve a rubik's cube (lol)
 
